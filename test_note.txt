@@ -2,4 +2,5 @@ testing new tag
 
 
 
-1. Testing for Defect AT-10 test 7 5.7.6-GA-efix-xx
+1. Testing for Defect AT-10 test 7 : 5.7.6-GA-efix-xx -> 5.7.6-GA-efix-01 [done]
+2. Testing for AT-11,  5.7.2-GA-efix-xx -> 5.7.2-GA-efix-01 
